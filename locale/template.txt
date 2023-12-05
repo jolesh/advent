@@ -1,0 +1,5 @@
+# textdomain: advent
+Candy Cane=
+Mint Candy=
+Oatmeal Cookie=
+Brownie=
